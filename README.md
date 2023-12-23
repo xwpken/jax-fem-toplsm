@@ -5,6 +5,6 @@
 
 ## Overview
 
-This package is used for topology optimization using the parameterized level-set method, which relies on the GPU-accelerated differentiable finite element analysis package - [jax-fem](https://github.com/tianjuxue/jax-fem).
+This package is used for topology optimization using the parameterized level-set method, which relies on the GPU-accelerated differentiable finite element analysis package - [JAX_FEM](https://github.com/tianjuxue/jax-fem).
 
 
